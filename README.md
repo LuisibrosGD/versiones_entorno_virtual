@@ -17,3 +17,4 @@ Estoy practicando entornos virtuales con una version especifica de python
 
     Ideal cuando trabajás con entornos virtuales o múltiples versiones
 
+> La barra invertida en pycharm es con ctrl + alt + ?
